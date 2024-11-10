@@ -1,0 +1,84 @@
+{
+ "content": [
+  {
+   "id": "92229",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327"
+    }
+   ],
+   "structure": "It turns you into {{BLANK}}"
+  },
+  {
+   "id": "92230",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327"
+    }
+   ],
+   "structure": "It protects you from {{BLANK}}"
+  },
+  {
+   "id": "92231",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92505"
+    }
+   ],
+   "structure": "It makes you look like {{BLANK}}"
+  },
+  {
+   "id": "92232",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92328"
+    }
+   ],
+   "structure": "It will flood {{BLANK}}"
+  },
+  {
+   "id": "92233",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327"
+    }
+   ],
+   "structure": "It summons {{BLANK}}"
+  },
+  {
+   "id": "92234",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93219"
+    }
+   ],
+   "structure": "It gives you the power of {{BLANK}}"
+  },
+  {
+   "id": "92235",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93225"
+    }
+   ],
+   "structure": "It makes your enemy {{BLANK}}"
+  },
+  {
+   "id": "92237",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327"
+    }
+   ],
+   "structure": "It fills the pockets of your enemies with {{BLANK}}"
+  }
+ ]
+}

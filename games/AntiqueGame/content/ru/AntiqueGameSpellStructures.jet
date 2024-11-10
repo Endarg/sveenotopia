@@ -1,0 +1,84 @@
+{
+ "content": [
+  {
+   "id": "92229_ru-RU",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_ru-RU"
+    }
+   ],
+   "structure": "Может превратить вас в {{BLANK}}"
+  },
+  {
+   "id": "92230_ru-RU",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_ru-RU"
+    }
+   ],
+   "structure": "Поможет победить {{BLANK}}"
+  },
+  {
+   "id": "92231_ru-RU",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92505_ru-RU"
+    }
+   ],
+   "structure": "Замаскирует вас под {{BLANK}}"
+  },
+  {
+   "id": "92232_ru-RU",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92328_ru-RU"
+    }
+   ],
+   "structure": "Вызовет наводнение {{BLANK}}"
+  },
+  {
+   "id": "92233_ru-RU",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_ru-RU"
+    }
+   ],
+   "structure": "Призывает {{BLANK}}"
+  },
+  {
+   "id": "92234_ru-RU",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93219_ru-RU"
+    }
+   ],
+   "structure": "Даёт вам силу {{BLANK}}"
+  },
+  {
+   "id": "92235_ru-RU",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93225_ru-RU"
+    }
+   ],
+   "structure": "Сделает вашего врага {{BLANK}}"
+  },
+  {
+   "id": "92237_ru-RU",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_ru-RU"
+    }
+   ],
+   "structure": "Подложит {{BLANK}} в карманы ваших врагов"
+  }
+ ]
+}

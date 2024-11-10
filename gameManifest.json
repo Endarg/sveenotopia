@@ -1,0 +1,22 @@
+{
+    "gameName": "The Jackbox Party Pack 9",
+    "mainSwf": "TJPPLoader.swf",
+    "pauseSwf": "PauseDialog.swf",
+    "managerSwf": "Manager.swf",
+    "fallbackSwf": "games/Picker/Picker.swf",
+    "pauseStyle": "buses",
+
+    "win":{
+        "sentryDsn": "https://47ed22c3f2504401857d2b8d3bc3dcec@o420318.ingest.sentry.io/6273364"
+    },
+
+    "steam":{
+        "appId": 1850960
+    },
+
+    "samsung":{
+        "ads":[
+        ]
+    }
+
+}

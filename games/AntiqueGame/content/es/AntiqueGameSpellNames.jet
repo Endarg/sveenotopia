@@ -1,0 +1,316 @@
+{
+ "content": [
+  {
+   "id": "92238_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Accendo"
+  },
+  {
+   "id": "92239_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Impero"
+  },
+  {
+   "id": "92240_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Letum"
+  },
+  {
+   "id": "92241_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Nullus"
+  },
+  {
+   "id": "92242_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Onero"
+  },
+  {
+   "id": "92243_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Pareo"
+  },
+  {
+   "id": "92244_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Profecto"
+  },
+  {
+   "id": "92245_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Salvus"
+  },
+  {
+   "id": "92246_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Solum"
+  },
+  {
+   "id": "92247_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Tantus"
+  },
+  {
+   "id": "92285_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Ventus"
+  },
+  {
+   "id": "92286_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Vitium"
+  },
+  {
+   "id": "92287_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Specto"
+  },
+  {
+   "id": "92288_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Picante"
+  },
+  {
+   "id": "92289_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Paleo"
+  },
+  {
+   "id": "92290_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Quibi"
+  },
+  {
+   "id": "92291_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Fideicomiso"
+  },
+  {
+   "id": "92292_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Picante"
+  },
+  {
+   "id": "92293_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Alexis"
+  },
+  {
+   "id": "92294_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Theranos"
+  },
+  {
+   "id": "92295_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Exacto"
+  },
+  {
+   "id": "92296_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Pinto"
+  },
+  {
+   "id": "92297_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Boba"
+  },
+  {
+   "id": "92298_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Mandamás"
+  },
+  {
+   "id": "92299_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Moño"
+  },
+  {
+   "id": "92300_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Cenador"
+  },
+  {
+   "id": "92301_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Carbonara"
+  },
+  {
+   "id": "92302_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Guateque"
+  },
+  {
+   "id": "92303_es-ES",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "Prosciutto"
+  },
+  {
+   "id": "92304_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Prosciutto"
+  },
+  {
+   "id": "92305_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Jefaza"
+  },
+  {
+   "id": "92306_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Kalamazoo"
+  },
+  {
+   "id": "92307_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Chalamet"
+  },
+  {
+   "id": "92308_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Travesuras"
+  },
+  {
+   "id": "92309_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Glamburguesa"
+  },
+  {
+   "id": "92310_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Conjuntivitis"
+  },
+  {
+   "id": "92311_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Banal"
+  },
+  {
+   "id": "92312_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Mitocondrias"
+  },
+  {
+   "id": "92313_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Lorza"
+  },
+  {
+   "id": "92314_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Ratatouille"
+  },
+  {
+   "id": "92315_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Guirigay"
+  },
+  {
+   "id": "92316_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Zune"
+  },
+  {
+   "id": "92317_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Netscape"
+  },
+  {
+   "id": "92318_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Abralacabra"
+  },
+  {
+   "id": "92319_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Teatralidad"
+  },
+  {
+   "id": "92320_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Cotorreo"
+  },
+  {
+   "id": "92321_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Atascaburras"
+  },
+  {
+   "id": "92322_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Paparruchas"
+  },
+  {
+   "id": "92323_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Amadeus"
+  },
+  {
+   "id": "92324_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Travesuras"
+  },
+  {
+   "id": "92325_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Catapum"
+  },
+  {
+   "id": "92326_es-ES",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "Galifianakis"
+  }
+ ]
+}

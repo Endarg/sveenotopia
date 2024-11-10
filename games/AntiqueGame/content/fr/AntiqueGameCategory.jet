@@ -1,0 +1,88 @@
+{
+ "content": [
+  {
+   "category": "Le palais de poupées de Dahl",
+   "id": "88198_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Le nom de cette poupée est : {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Les fantastiques figurines de Phil",
+   "id": "88199_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Voici le nom de cette figurine : {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Les jouets joyeux de Troy",
+   "id": "88200_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Ce jouet s'appelle : {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Les œuvres d'Art",
+   "id": "88201_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Cette œuvre se nomme : {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Les outils de Jewel",
+   "id": "88202_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Le nom de cet outil est {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Les statues de Matthew",
+   "id": "88203_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Le nom de cette œuvre est : {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Les gadgets à gogo de Rex",
+   "id": "88204_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Cet objet se nomme {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Repose-postérieurs de qualité",
+   "id": "88205_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Normalement, on appelle cet objet {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "La maison à la mode de Franz",
+   "id": "88206_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Cet objet se nomme {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Les vaisseaux variés de Verne",
+   "id": "88207_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Les anciens propriétaires de cet objet l'on nommé {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Décors dantesques du Sgt. Corp",
+   "id": "88208_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Le nom de cet article remarquable est {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Un grand tas d'ordures",
+   "id": "88209_fr-FR",
+   "isValid": "",
+   "titlePrompt": "Ceci est {{BLANK}}",
+   "weight": 2
+  }
+ ]
+}

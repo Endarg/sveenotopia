@@ -1,0 +1,88 @@
+{
+ "content": [
+  {
+   "category": "Мистик Еретик Бутик",
+   "id": "88198_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Эту куклу зовут {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Вещие вещи и лещи",
+   "id": "88199_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Эта фигурка называется {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Игрушки от Галушки",
+   "id": "88200_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Эта игрушка называется {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Анти Анти Квариаты",
+   "id": "88201_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Эта вещь называется {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "ИП Кратинов Никита",
+   "id": "88202_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Этот инструмент называется {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Вячеславный магазин",
+   "id": "88203_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Этот предмет называется {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Ларёк Рагнарёк",
+   "id": "88204_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Этот предмет – {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "2738 мелочей",
+   "id": "88205_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Люди обычно называют это {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Сельпо у депо",
+   "id": "88206_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Эта вещь называется {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Универмагия",
+   "id": "88207_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Предыдущие владельцы называли эту вещь {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Лавка Амаяка Акопяна",
+   "id": "88208_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Эта потрясающая вещь называется {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Большая свалка",
+   "id": "88209_ru-RU",
+   "isValid": "",
+   "titlePrompt": "Это {{BLANK}}",
+   "weight": 2
+  }
+ ]
+}

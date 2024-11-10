@@ -1,0 +1,88 @@
+{
+ "content": [
+  {
+   "category": "Dahl’s Doll Mall",
+   "id": "88198",
+   "isValid": "",
+   "titlePrompt": "The name of this doll is: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Phil’s Fine Figurines",
+   "id": "88199",
+   "isValid": "",
+   "titlePrompt": "This figurine is called: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Troy’s Toy Joy",
+   "id": "88200",
+   "isValid": "",
+   "titlePrompt": "This toy is named: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Art’s Art Mart",
+   "id": "88201",
+   "isValid": "",
+   "titlePrompt": "This piece is entitled: {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Jewel’s Tools",
+   "id": "88202",
+   "isValid": "",
+   "titlePrompt": "This tool is referred to as {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Matthew’s Statues",
+   "id": "88203",
+   "isValid": "",
+   "titlePrompt": "The name of this piece is {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Rex’s Tech Deck",
+   "id": "88204",
+   "isValid": "",
+   "titlePrompt": "This item is a {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Formidable’s Sittables",
+   "id": "88205",
+   "isValid": "",
+   "titlePrompt": "People generally call this {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Franz’s Fashion Haüs",
+   "id": "88206",
+   "isValid": "",
+   "titlePrompt": "The name of this item is {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Verne’s Varied Vessels",
+   "id": "88207",
+   "isValid": "",
+   "titlePrompt": "Previous owners call this item {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Sgt. Corp’s Décor Store",
+   "id": "88208",
+   "isValid": "",
+   "titlePrompt": "The name of this striking piece is {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "A Huge Dumpster",
+   "id": "88209",
+   "isValid": "",
+   "titlePrompt": "This is {{BLANK}}",
+   "weight": 2
+  }
+ ]
+}

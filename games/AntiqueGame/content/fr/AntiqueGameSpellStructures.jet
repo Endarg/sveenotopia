@@ -1,0 +1,84 @@
+{
+ "content": [
+  {
+   "id": "92229_fr-FR",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_fr-FR"
+    }
+   ],
+   "structure": "Cela vous transforme {{BLANK}}"
+  },
+  {
+   "id": "92230_fr-FR",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_fr-FR"
+    }
+   ],
+   "structure": "Cela vous protège {{BLANK}}"
+  },
+  {
+   "id": "92231_fr-FR",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92505_fr-FR"
+    }
+   ],
+   "structure": "Cela vous fait ressembler {{BLANK}}"
+  },
+  {
+   "id": "92232_fr-FR",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92328_fr-FR"
+    }
+   ],
+   "structure": "Cela inonde {{BLANK}}"
+  },
+  {
+   "id": "92233_fr-FR",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_fr-FR"
+    }
+   ],
+   "structure": "Cela invoque {{BLANK}}"
+  },
+  {
+   "id": "92234_fr-FR",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93219_fr-FR"
+    }
+   ],
+   "structure": "Cela vous confère le pouvoir {{BLANK}}"
+  },
+  {
+   "id": "92235_fr-FR",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93225_fr-FR"
+    }
+   ],
+   "structure": "Votre adversaire devient {{BLANK}}"
+  },
+  {
+   "id": "92237_fr-FR",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_fr-FR"
+    }
+   ],
+   "structure": "Cela remplit les poches de vos ennemis {{BLANK}}"
+  }
+ ]
+}

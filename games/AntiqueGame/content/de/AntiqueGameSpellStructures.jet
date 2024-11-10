@@ -1,0 +1,84 @@
+{
+ "content": [
+  {
+   "id": "92229_de-DE",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_de-DE"
+    }
+   ],
+   "structure": "Durch diesen Zauber fristet man fortan das Dasein von {{BLANK}}"
+  },
+  {
+   "id": "92230_de-DE",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_de-DE"
+    }
+   ],
+   "structure": "Dieser Zauber schützt einen vor {{BLANK}}"
+  },
+  {
+   "id": "92231_de-DE",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92505_de-DE"
+    }
+   ],
+   "structure": "Dieser Zauber lässt einen wie {{BLANK}} aussehen"
+  },
+  {
+   "id": "92232_de-DE",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92328_de-DE"
+    }
+   ],
+   "structure": "Dieser Zauber wird {{BLANK}} überfluten"
+  },
+  {
+   "id": "92233_de-DE",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_de-DE"
+    }
+   ],
+   "structure": "Zauber zur Beschwörung von {{BLANK}}"
+  },
+  {
+   "id": "92234_de-DE",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93219_de-DE"
+    }
+   ],
+   "structure": "Dieser Zauber verleiht einem die Macht der {{BLANK}}"
+  },
+  {
+   "id": "92235_de-DE",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93225_de-DE"
+    }
+   ],
+   "structure": "Dieser Zauber macht, dass deine Feinde {{BLANK}}"
+  },
+  {
+   "id": "92237_de-DE",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_de-DE"
+    }
+   ],
+   "structure": "Dieser Zauber füllt die Taschen deiner Feinde mit {{BLANK}}"
+  }
+ ]
+}

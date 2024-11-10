@@ -1,0 +1,88 @@
+{
+ "content": [
+  {
+   "category": "Bamboleria di Barbara",
+   "id": "88198_it-IT",
+   "isValid": "",
+   "titlePrompt": "Il nome di questa bambola è {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Strepitose statuine di Ste",
+   "id": "88199_it-IT",
+   "isValid": "",
+   "titlePrompt": "Questa statuina si chiama: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Gioiattolo di Gioia",
+   "id": "88200_it-IT",
+   "isValid": "",
+   "titlePrompt": "Questo giocattolo si chiama: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Arte e Parte di Artemisia",
+   "id": "88201_it-IT",
+   "isValid": "",
+   "titlePrompt": "Quest'opera s'intitola: {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Attrezzi di Atreo",
+   "id": "88202_it-IT",
+   "isValid": "",
+   "titlePrompt": "Questo attrezzo viene chiamato {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Statue di Matthew",
+   "id": "88203_it-IT",
+   "isValid": "",
+   "titlePrompt": "Il nome di quest'opera è {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Miniskate di Skylar",
+   "id": "88204_it-IT",
+   "isValid": "",
+   "titlePrompt": "Questo oggetto è un {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Comodissimo da Massimo",
+   "id": "88205_it-IT",
+   "isValid": "",
+   "titlePrompt": "Solitamente la gente lo chiama {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Fissa fashion di Franz",
+   "id": "88206_it-IT",
+   "isValid": "",
+   "titlePrompt": "Il nome di quest'oggetto è {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Vasi e varie di Verne",
+   "id": "88207_it-IT",
+   "isValid": "",
+   "titlePrompt": "I vecchi proprietari chiamano questo oggetto {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Arredamenti del Sergente Dario",
+   "id": "88208_it-IT",
+   "isValid": "",
+   "titlePrompt": "Il nome di questa strepitosa opera è {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Mega discarica",
+   "id": "88209_it-IT",
+   "isValid": "",
+   "titlePrompt": "È {{BLANK}}",
+   "weight": 2
+  }
+ ]
+}

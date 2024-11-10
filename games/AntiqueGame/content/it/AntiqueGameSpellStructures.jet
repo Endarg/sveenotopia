@@ -1,0 +1,84 @@
+{
+ "content": [
+  {
+   "id": "92229_it-IT",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_it-IT"
+    }
+   ],
+   "structure": "Ti trasforma in {{BLANK}}"
+  },
+  {
+   "id": "92230_it-IT",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_it-IT"
+    }
+   ],
+   "structure": "Ti protegge da {{BLANK}}"
+  },
+  {
+   "id": "92231_it-IT",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92505_it-IT"
+    }
+   ],
+   "structure": "Ti fa sembrare {{BLANK}}"
+  },
+  {
+   "id": "92232_it-IT",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92328_it-IT"
+    }
+   ],
+   "structure": "Inonderà {{BLANK}}"
+  },
+  {
+   "id": "92233_it-IT",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_it-IT"
+    }
+   ],
+   "structure": "Evoca {{BLANK}}"
+  },
+  {
+   "id": "92234_it-IT",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93219_it-IT"
+    }
+   ],
+   "structure": "Ti dà il potere di {{BLANK}}"
+  },
+  {
+   "id": "92235_it-IT",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93225_it-IT"
+    }
+   ],
+   "structure": "Fa sì che il tuo nemico {{BLANK}}"
+  },
+  {
+   "id": "92237_it-IT",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_it-IT"
+    }
+   ],
+   "structure": "Riempirà le tasche dei tuoi nemici di {{BLANK}}"
+  }
+ ]
+}

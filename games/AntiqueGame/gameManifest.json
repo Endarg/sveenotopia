@@ -1,0 +1,20 @@
+{
+    "gameName": "Junktopia",
+    "mainSwf": "AntiqueGame.swf",
+    "pauseSwf": "PauseDialog.swf",
+    "managerSwf": "Manager.swf",
+    "pauseStyle": "buses",
+    
+    "win":{
+        "sentryDsn": "https://47ed22c3f2504401857d2b8d3bc3dcec@o420318.ingest.sentry.io/6273364"
+    },
+    
+    "steam":{
+    },
+
+    "samsung":{
+        "ads":[
+        ]
+    }
+    
+}

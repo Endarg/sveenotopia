@@ -1,0 +1,84 @@
+{
+ "content": [
+  {
+   "id": "92229_es-XL",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_es-XL"
+    }
+   ],
+   "structure": "Los convierte en {{BLANK}}"
+  },
+  {
+   "id": "92230_es-XL",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_es-XL"
+    }
+   ],
+   "structure": "Los protege contra {{BLANK}}"
+  },
+  {
+   "id": "92231_es-XL",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92505_es-XL"
+    }
+   ],
+   "structure": "Hace que te veas como {{BLANK}}"
+  },
+  {
+   "id": "92232_es-XL",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92328_es-XL"
+    }
+   ],
+   "structure": "Inundará {{BLANK}}"
+  },
+  {
+   "id": "92233_es-XL",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_es-XL"
+    }
+   ],
+   "structure": "Invoca {{BLANK}}"
+  },
+  {
+   "id": "92234_es-XL",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93219_es-XL"
+    }
+   ],
+   "structure": "Les otorga el poder {{BLANK}}"
+  },
+  {
+   "id": "92235_es-XL",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93225_es-XL"
+    }
+   ],
+   "structure": "Hace a su enemigo {{BLANK}}"
+  },
+  {
+   "id": "92237_es-XL",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_es-XL"
+    }
+   ],
+   "structure": "Llena los bolsillos de sus enemigos con {{BLANK}}"
+  }
+ ]
+}

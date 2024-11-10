@@ -1,0 +1,88 @@
+{
+ "content": [
+  {
+   "category": "Muñecas Pepona",
+   "id": "88198_es-ES",
+   "isValid": "",
+   "titlePrompt": "Esta muñeca se llama: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Figuritas La selecta",
+   "id": "88199_es-ES",
+   "isValid": "",
+   "titlePrompt": "Esta figurita se llama: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Juguetería La sonrisa",
+   "id": "88200_es-ES",
+   "isValid": "",
+   "titlePrompt": "Este juguete se llama: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Galerías Art Vandelay",
+   "id": "88201_es-ES",
+   "isValid": "",
+   "titlePrompt": "Esta pieza se titula: {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Ferretería La tuerca suelta",
+   "id": "88202_es-ES",
+   "isValid": "",
+   "titlePrompt": "Esta herramienta se conoce como: {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Esculturas con altura",
+   "id": "88203_es-ES",
+   "isValid": "",
+   "titlePrompt": "El nombre de esta pieza es: {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Artilugios Bacterio",
+   "id": "88204_es-ES",
+   "isValid": "",
+   "titlePrompt": "Este objeto es: {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Sillones E. S. Tirado",
+   "id": "88205_es-ES",
+   "isValid": "",
+   "titlePrompt": "Suele recibir el nombre de: {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "La choza de moda",
+   "id": "88206_es-ES",
+   "isValid": "",
+   "titlePrompt": "Este objeto se llama: {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Recipientes con ambiente",
+   "id": "88207_es-ES",
+   "isValid": "",
+   "titlePrompt": "Los anteriores dueños le daban el nombre de: {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Decórate por cero",
+   "id": "88208_es-ES",
+   "isValid": "",
+   "titlePrompt": "Esta pieza tan bonita se llama: {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Un enorme basurero",
+   "id": "88209_es-ES",
+   "isValid": "",
+   "titlePrompt": "Se trata de: {{BLANK}}",
+   "weight": 2
+  }
+ ]
+}

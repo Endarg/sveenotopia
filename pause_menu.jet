@@ -1,0 +1,18 @@
+{
+    "localized" : "true",
+    "items": [
+        {
+            "title":"PAUSE_RESUME",
+            "action":"doResumeGame",
+            "description":"PAUSE_RESUME_DESCRIPTION",
+            "value":0
+        },
+        {
+            "title":"PAUSE_EXIT_TO_DESKTOP",
+            "action":"doExitToDesktop",
+            "description":"PAUSE_EXIT_TO_DESKTOP_DESCRIPTION",
+            "value":1,
+            "hideWhenBuildConfigIs":{ "id": "needExitbutton", "value": false }
+        }
+    ]
+}

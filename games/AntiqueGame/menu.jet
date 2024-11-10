@@ -1,0 +1,31 @@
+{
+    "localized" : "true",
+    "items": [
+        {
+            "title":"PLAY",
+            "action":"doPlayGame",
+            "description":"PLAY_DESCRIPTION",
+            "value":0
+        },
+        {
+            "title":"SETTINGS",
+            "action":"doSettings",
+            "description":"SETTINGS_DESCRIPTION",
+            "value":2
+        },
+        {
+            "title":"BACK_TO_PACK",
+            "action":"doBackToPack",
+            "description":"BACK_TO_PACK_DESCRIPTION",
+            "value":3,
+            "isValid": "isBundle==true"
+        },
+        {
+            "title":"EXIT",
+            "action":"doBackToPack",
+            "description":"EXIT",
+            "value":4,
+            "isValid": "isBundle!=true"
+        }
+    ]
+}
